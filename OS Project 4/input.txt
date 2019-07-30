@@ -1,0 +1,8 @@
+E
+1
+ABC N 2
+BCD N 2
+CDE S 3
+DEF E 2
+EFG S 1
+FGH W 1
